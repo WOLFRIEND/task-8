@@ -1,0 +1,16 @@
+@import "components/Speaker/Speaker";
+@import "components/Kettle/Kettle";
+@import "components/Home/Home";
+
+.button {
+  padding: 10px 20px;
+  font-size: 25px;
+}
+
+.button_on {
+  background-color: #4CAF50;
+}
+
+.button_off {
+  background-color: #f44336;
+}

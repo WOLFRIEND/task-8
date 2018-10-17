@@ -1,0 +1,38 @@
+.speaker {
+  display: inline-block;
+  padding: 5px;
+  border: 2px solid black;
+  width: 300px;
+  height: 600px;
+  text-align: center; }
+  .speaker__volume-range, .speaker__volume-text {
+    margin: auto; }
+  .speaker__image {
+    margin: auto; }
+
+.kettle {
+  display: inline-block;
+  padding: 5px;
+  border: 2px solid black;
+  width: 300px;
+  height: 600px;
+  text-align: center; }
+  .kettle__temperature-text, .kettle__boil-input {
+    margin: auto; }
+  .kettle__image {
+    margin: auto; }
+
+.home {
+  margin: 50px; }
+
+.button {
+  padding: 10px 20px;
+  font-size: 25px; }
+
+.button_on {
+  background-color: #4CAF50; }
+
+.button_off {
+  background-color: #f44336; }
+
+/*# sourceMappingURL=styles.css.map*/
